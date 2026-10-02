@@ -1,0 +1,36 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments & Virtual Envs
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+
+# Distribution & Build
+build/
+dist/
+*.egg-info/
+wheels/
+
+# Editor / OS files
+.DS_Store
+.DS_Store?
+._*
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing & Coverage
+.coverage
+htmlcov/
+.pytest_cache/

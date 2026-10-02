@@ -1,0 +1,2117 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 13 0 R /F2 14 0 R /F3 15 0 R /F4 16 0 R /F5 17 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 8227 >>
+stream
+0.080 0.140 0.280 rg
+42.00 676.89 511.28 120.00 re f
+0.200 0.500 0.980 rg
+42.00 676.89 6.00 120.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 20.00 Tf
+64.00 764.89 Td
+(AI AGENTS: ZERO TO HERO ROADMAP) Tj
+ET
+0.750 0.850 0.980 rg
+BT
+/F1 11.00 Tf
+64.00 744.89 Td
+(Autonomous Workflows, Open-Source Tooling & Meta-Agents Guide) Tj
+ET
+0.140 0.220 0.400 rg
+64.00 691.89 467.28 38.00 re f
+0.900 0.940 1.000 rg
+BT
+/F2 7.50 Tf
+74.00 711.89 Td
+(LEARNER PROFILE) Tj
+ET
+BT
+/F1 9.00 Tf
+74.00 698.89 Td
+(Node.js / JS Developer) Tj
+ET
+BT
+/F2 7.50 Tf
+194.00 711.89 Td
+(TECH APPROACH) Tj
+ET
+BT
+/F1 9.00 Tf
+194.00 698.89 Td
+(100% Open-Source & Hybrid) Tj
+ET
+BT
+/F2 7.50 Tf
+314.00 711.89 Td
+(TIME COMMITMENT) Tj
+ET
+BT
+/F1 9.00 Tf
+314.00 698.89 Td
+(10-20 Hours / Week) Tj
+ET
+BT
+/F2 7.50 Tf
+434.00 711.89 Td
+(GOAL) Tj
+ET
+BT
+/F1 9.00 Tf
+434.00 698.89 Td
+(Meta-Agents & Production Workflows) Tj
+ET
+0.140 0.380 0.920 rg
+42.00 636.89 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 641.89 Td
+(1) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 641.89 Td
+(THE CORE MENTAL MODEL: WHAT IS AN AI AGENT?) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 630.89 m 553.28 630.89 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 609.39 Td
+(An AI Agent is not just an LLM or a prompt. An LLM is simply a probabilistic text predictor. It) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 595.89 Td
+(becomes an agent only when placed inside an autonomous control loop with access to external tools and) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 582.39 Td
+(memory.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 566.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 564.39 Td
+(Level 0 - Prompting:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+165.62 564.39 Td
+(Single input -> single text output. Zero state, zero execution capability.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 550.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 548.39 Td
+(Level 1 - Chains & Pipelines:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+212.60 548.39 Td
+(Hardcoded sequential steps \(e.g., prompt 1 -> summarize -> prompt 2\).) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 535.39 Td
+(Deterministic.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 521.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 519.39 Td
+(Level 2 - Tool Calling / Router:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+228.26 519.39 Td
+(LLM selects from a menu of tools \(APIs, math, search\) to call, then) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 506.39 Td
+(interprets output.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 492.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 490.39 Td
+(Level 3 - Autonomous ReAct Loop:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+228.26 490.39 Td
+(Model reasons, acts, observes output, and loops until the objective is) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 477.39 Td
+(accomplished.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 463.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 461.39 Td
+(Level 4 - Multi-Agent Swarms:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+212.60 461.39 Td
+(Specialized agents collaborating \(e.g., Researcher, Coder, Reviewer,) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 448.39 Td
+(Manager\).) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 434.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 432.39 Td
+(Level 5 - Meta-Agents:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+176.06 432.39 Td
+(Self-improving agents that generate new tools, write agent definitions, and spawn) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 419.39 Td
+(sub-agents.) Tj
+ET
+0.930 0.950 1.000 rg
+42.00 352.39 511.28 60.00 re f
+0.150 0.350 0.900 rg
+42.00 352.39 4.00 60.00 re f
+0.850 0.880 0.920 RG
+0.60 w
+42.00 352.39 511.28 60.00 re s
+0.080 0.200 0.600 rg
+BT
+/F2 9.00 Tf
+56.00 396.39 Td
+(THE FUNDAMENTAL REACT LOOP FORMULA) Tj
+ET
+0.180 0.220 0.280 rg
+BT
+/F1 8.50 Tf
+56.00 374.39 Td
+(Observation -> Thought \(Reasoning\) -> Action \(Tool Call\) -> Observation -> Loop) Tj
+ET
+BT
+/F1 8.50 Tf
+56.00 361.39 Td
+(Agents succeed because they can self-correct when an API or tool call throws an error.) Tj
+ET
+0.140 0.380 0.920 rg
+42.00 322.39 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 327.39 Td
+(2) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 327.39 Td
+(JAVASCRIPT TO PYTHON 3-DAY TRANSITION GUIDE) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 316.39 m 553.28 316.39 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 294.89 Td
+(Since you already write modern JavaScript and Node.js, learning Python takes 2 to 3 days. You already) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 281.39 Td
+(know asynchronous programming, objects, and APIs. Here is your direct translation bridge:) Tj
+ET
+0.120 0.180 0.320 rg
+42.00 252.39 511.00 20.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 8.50 Tf
+50.00 258.39 Td
+(Concept) Tj
+ET
+BT
+/F2 8.50 Tf
+140.00 258.39 Td
+(JavaScript / Node.js) Tj
+ET
+BT
+/F2 8.50 Tf
+270.00 258.39 Td
+(Python 3.11+) Tj
+ET
+BT
+/F2 8.50 Tf
+410.00 258.39 Td
+(Why It Matters for Agents) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 234.39 m 553.00 234.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 239.39 Td
+(Package Manager) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 239.39 Td
+(npm / pnpm / yarn) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+270.00 239.39 Td
+(uv \(modern\) or poetry / pip) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+410.00 239.39 Td
+(uv installs dependencies in milliseconds.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 216.39 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 216.39 m 553.00 216.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 221.39 Td
+(Virtual Env) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 221.39 Td
+(node_modules directory) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+270.00 221.39 Td
+(uv venv \(.venv folder\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+410.00 221.39 Td
+(Isolates packages per project cleanly.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 198.39 m 553.00 198.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 203.39 Td
+(Async Functions) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 203.39 Td
+(async \(\) => await fetch\(\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+270.00 203.39 Td
+(async def run\(\): await api\(\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+410.00 203.39 Td
+(Both use event-loop driven asynchronous I/O.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 180.39 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 180.39 m 553.00 180.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 185.39 Td
+(Objects / Dicts) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 185.39 Td
+(const obj = { name: 'Alex' }) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+270.00 185.39 Td
+(data = {'name': 'Alex'}) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+410.00 185.39 Td
+(Python dicts are JSON-native.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 162.39 m 553.00 162.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 167.39 Td
+(Data Validation) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 167.39 Td
+(zod \(z.object\({...}\)\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+270.00 167.39 Td
+(pydantic \(class Model\(BaseModel\)\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+410.00 167.39 Td
+(Pydantic generates tool schemas automatically.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 144.39 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 144.39 m 553.00 144.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 149.39 Td
+(Decorators) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 149.39 Td
+(TypeScript experimental) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+270.00 149.39 Td
+(Native: @tool, @property) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+410.00 149.39 Td
+(Used by LangGraph and CrewAI to expose functions.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 126.39 m 553.00 126.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 131.39 Td
+(File System) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 131.39 Td
+(fs.promises.readFile\(\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+270.00 131.39 Td
+(with open\('file.txt'\) as f:) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+410.00 131.39 Td
+(Python auto-closes files via context managers.) Tj
+ET
+0.820 0.850 0.900 RG
+0.80 w
+42.00 126.39 511.00 146.00 re s
+0.82 0.86 0.90 RG
+0.8 w
+42 32 m 553.28 32 l S
+0.45 0.50 0.58 rg
+BT
+/F1 8.5 Tf
+42 20 Td
+(100% Open-Source & Hybrid Stack | Ollama + Gemini Pro + LangGraph + CrewAI) Tj
+ET
+BT
+/F2 8.5 Tf
+493.28 20 Td
+(Page 1 of 5) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 13 0 R /F2 14 0 R /F3 15 0 R /F4 16 0 R /F5 17 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 7714 >>
+stream
+0.820 0.860 0.900 RG
+0.80 w
+42.00 809.89 m 553.28 809.89 l S
+0.450 0.500 0.580 rg
+BT
+/F2 8.50 Tf
+42.00 815.89 Td
+(AI AGENTS: ZERO TO HERO ROADMAP) Tj
+ET
+BT
+/F2 8.50 Tf
+443.28 815.89 Td
+(PEER PARTNERSHIP GUIDE) Tj
+ET
+0.930 0.980 0.950 rg
+42.00 713.89 511.28 73.00 re f
+0.150 0.650 0.350 rg
+42.00 713.89 4.00 73.00 re f
+0.850 0.880 0.920 RG
+0.60 w
+42.00 713.89 511.28 73.00 re s
+0.080 0.400 0.200 rg
+BT
+/F2 9.00 Tf
+56.00 770.89 Td
+(YOUR UNFAIR ADVANTAGE AS A JS DEVELOPER) Tj
+ET
+0.180 0.220 0.280 rg
+BT
+/F1 8.50 Tf
+56.00 748.89 Td
+(90% of AI tutorials ignore UI and production web servers.) Tj
+ET
+BT
+/F1 8.50 Tf
+56.00 735.89 Td
+(Because you know Node.js, you can build full-stack interfaces \(Next.js, WebSockets, real-time streaming\)) Tj
+ET
+BT
+/F1 8.50 Tf
+56.00 722.89 Td
+(on top of your Python AI agent backends faster than pure Python data scientists!) Tj
+ET
+0.140 0.380 0.920 rg
+42.00 683.89 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 688.89 Td
+(3) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 688.89 Td
+(100% OPEN-SOURCE & HYBRID TECH STACK) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 677.89 m 553.28 677.89 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 656.39 Td
+(You do not need paid closed-source platforms. We use an open-source first architecture that runs) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 642.89 Td
+(locally on Apple Silicon with zero cost, backed by free-tier cloud models when heavy reasoning is) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 629.39 Td
+(required:) Tj
+ET
+0.120 0.180 0.320 rg
+42.00 600.39 511.00 20.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 8.50 Tf
+50.00 606.39 Td
+(Layer) Tj
+ET
+BT
+/F2 8.50 Tf
+150.00 606.39 Td
+(Recommended Technology) Tj
+ET
+BT
+/F2 8.50 Tf
+310.00 606.39 Td
+(Role & Advantage) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 582.39 m 553.00 582.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 587.39 Td
+(Local Models) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+150.00 587.39 Td
+(Ollama \(Llama 3.2, Qwen 2.5 Coder\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+310.00 587.39 Td
+(100% private, zero cost, runs offline on your Mac.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 564.39 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 564.39 m 553.00 564.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 569.39 Td
+(Cloud Reasoning) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+150.00 569.39 Td
+(Gemini 2.0 / 1.5 Pro & Groq) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+310.00 569.39 Td
+(Free tier, massive context \(1M+ tokens\), ultra-fast tool calling.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 546.39 m 553.00 546.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 551.39 Td
+(Universal API) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+150.00 551.39 Td
+(LiteLLM) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+310.00 551.39 Td
+(Call Ollama, Gemini, Groq, or OpenAI using identical function syntax.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 528.39 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 528.39 m 553.00 528.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 533.39 Td
+(State Machine) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+150.00 533.39 Td
+(LangGraph) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+310.00 533.39 Td
+(Cyclic graphs, persistence, state memory, human approval interrupts.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 510.39 m 553.00 510.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 515.39 Td
+(Multi-Agent Swarm) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+150.00 515.39 Td
+(CrewAI) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+310.00 515.39 Td
+(Role-based agents \(Manager, Researcher, QA\) with inter-agent chat.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 492.39 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 492.39 m 553.00 492.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 497.39 Td
+(Local Memory) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+150.00 497.39 Td
+(ChromaDB / LanceDB) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+310.00 497.39 Td
+(Serverless embedded vector database for semantic recall.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 474.39 m 553.00 474.39 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 479.39 Td
+(Universal Tools) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+150.00 479.39 Td
+(Model Context Protocol \(MCP\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+310.00 479.39 Td
+(Anthropic open standard to plug files, DBs, and APIs into agents.) Tj
+ET
+0.820 0.850 0.900 RG
+0.80 w
+42.00 474.39 511.00 146.00 re s
+0.140 0.380 0.920 rg
+42.00 439.39 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 444.39 Td
+(4) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 444.39 Td
+(CURATED VIDEO PLAYLIST & HIGH-YIELD STUDY MATERIALS) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 433.39 m 553.28 433.39 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 411.89 Td
+(Watch these curated, high-signal videos alongside our hands-on pair-programming sessions. Avoid) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 398.39 Td
+(multi-hour generic tutorials; focus on these exact modular lessons:) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 382.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 380.39 Td
+(DeepLearning.AI - Functions, Tools and Agents with LangChain \(1 hr\):) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+416.18 380.39 Td
+(Free course by Andrew Ng. Teaches) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 367.39 Td
+(JSON schema generation, tool definitions, and raw function calling.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 353.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 351.39 Td
+(DeepLearning.AI - AI Agents in LangGraph \(1 hr\):) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+311.78 351.39 Td
+(Taught by Harrison Chase \(Founder of LangChain\).) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 338.39 Td
+(Explains agent state, cycles, and human-in-the-loop workflows.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 324.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 322.39 Td
+(DeepLearning.AI - Multi AI Agent Systems with crewAI \(1 hr\):) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+374.42 322.39 Td
+(Taught by Joao Moura \(Founder of CrewAI\).) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 309.39 Td
+(Covers multi-agent role-playing, delegation, and structured output.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 295.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 293.39 Td
+(YouTube - IndyDevDan \(First-Principles Agent Builder\):) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+343.10 293.39 Td
+(Search: 'IndyDevDan building AI agents from) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 280.39 Td
+(scratch'. Essential for understanding the raw while loop without frameworks.) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 266.39 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 264.39 Td
+(YouTube - Dave Ebbelaar \(Practical Production Agents\):) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+343.10 264.39 Td
+(Search: 'Dave Ebbelaar LangGraph Agent) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+56.00 251.39 Td
+(Architecture'. Clear engineering patterns for real-world automation.) Tj
+ET
+0.140 0.380 0.920 rg
+42.00 224.39 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 229.39 Td
+(5) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 229.39 Td
+(12-WEEK ZERO-TO-HERO MASTER CURRICULUM) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 218.39 m 553.28 218.39 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 196.89 Td
+(Designed for 10-20 hours per week. Every month concludes with a production-grade, portfolio-ready) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 183.39 Td
+(capstone project.) Tj
+ET
+0.100 0.200 0.400 rg
+BT
+/F2 11.00 Tf
+42.00 162.39 Td
+(MONTH 1: FIRST PRINCIPLES & RAW TOOL CALLING \(NO FRAMEWORKS\)) Tj
+ET
+0.82 0.86 0.90 RG
+0.8 w
+42 32 m 553.28 32 l S
+0.45 0.50 0.58 rg
+BT
+/F1 8.5 Tf
+42 20 Td
+(100% Open-Source & Hybrid Stack | Ollama + Gemini Pro + LangGraph + CrewAI) Tj
+ET
+BT
+/F2 8.5 Tf
+493.28 20 Td
+(Page 2 of 5) Tj
+ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 13 0 R /F2 14 0 R /F3 15 0 R /F4 16 0 R /F5 17 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 7269 >>
+stream
+0.820 0.860 0.900 RG
+0.80 w
+42.00 809.89 m 553.28 809.89 l S
+0.450 0.500 0.580 rg
+BT
+/F2 8.50 Tf
+42.00 815.89 Td
+(AI AGENTS: ZERO TO HERO ROADMAP) Tj
+ET
+BT
+/F2 8.50 Tf
+443.28 815.89 Td
+(PEER PARTNERSHIP GUIDE) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 678.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 678.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 764.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 771.89 Td
+(WEEK 1: Python Bridge & Function Calling) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 752.89 Td
+(Core Objective: Master direct model APIs and tool schemas without any agent libraries.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 735.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 733.89 Td
+(Set up uv package manager and virtual environment.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 723.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 721.39 Td
+(Install Ollama locally \(Llama 3.2 3B & Qwen 2.5 Coder 7B\).) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 710.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 708.89 Td
+(Write standard Python functions and define Pydantic argument schemas.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 698.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 696.39 Td
+(Send function schemas to Gemini API and Ollama via LiteLLM.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 678.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 682.89 Td
+(Deliverable: A script where the LLM inspects user input and correctly triggers local Python functions.) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 560.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 560.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 646.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 653.89 Td
+(WEEK 2: The Autonomous ReAct Loop from Scratch) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 634.89 Td
+(Core Objective: Build your own agent runner using only a pure Python while loop.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 617.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 615.89 Td
+(Implement Thought -> Action -> Observation -> Final Answer cycle.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 605.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 603.39 Td
+(Write the dispatcher that executes model-requested tool calls dynamically.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 592.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 590.89 Td
+(Implement error recovery: catch exceptions and feed tracebacks back to model.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 580.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 578.39 Td
+(Add safety limits: max iterations and token budgets to prevent infinite loops.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 560.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 564.89 Td
+(Deliverable: A functional zero-dependency autonomous CLI agent that solves multi-step math and file tasks.) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 442.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 442.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 528.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 535.89 Td
+(WEEK 3: Short-Term Context & Semantic Memory) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 516.89 Td
+(Core Objective: Equip agents with long-term memory across sessions.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 499.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 497.89 Td
+(Build context window management \(sliding windows and automatic conversation summarization\).) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 487.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 485.39 Td
+(Integrate ChromaDB \(embedded vector database\) without external servers.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 474.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 472.89 Td
+(Store user preferences and execution traces as semantic embeddings.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 462.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 460.39 Td
+(Add semantic recall: query memory before answering incoming prompts.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 442.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 446.89 Td
+(Deliverable: An agent that remembers user facts and past project context across terminal restarts.) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 324.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 324.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 410.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 417.89 Td
+(WEEK 4: CAPSTONE 1: Autonomous Web Research & Digest Agent) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 398.89 Td
+(Core Objective: Ship your first end-to-end task automation agent.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 381.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 379.89 Td
+(Equip agent with DuckDuckGo search and BeautifulSoup web scraper tools.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 369.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 367.39 Td
+(Build an autonomous research loop: queries, selects links, reads pages, cross-checks facts.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 356.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 354.89 Td
+(Generate structured Markdown executive briefs with cited references.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 344.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 342.39 Td
+(Automate scheduled daily execution using macOS cron or launchd.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 324.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 328.89 Td
+(Deliverable: Deliverable: Tested CLI tool + clean GitHub repo + 2-min demo video for portfolio.) Tj
+ET
+0.100 0.200 0.400 rg
+BT
+/F2 11.00 Tf
+42.00 302.89 Td
+(MONTH 2: ORCHESTRATION FRAMEWORKS \(LANGGRAPH & CREWAI\)) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 186.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 186.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 272.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 279.89 Td
+(WEEK 5: Stateful Graph Architectures with LangGraph) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 260.89 Td
+(Core Objective: Graduate to production-grade state machines and cyclic workflows.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 243.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 241.89 Td
+(Model workflows as States, Nodes, and Edges.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 231.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 229.39 Td
+(Implement conditional branching \(e.g., 'needs more research' vs 'ready to answer'\).) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 218.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 216.89 Td
+(Add Human-in-the-loop checkpoints: pause execution for user confirmation before dangerous actions.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 206.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 204.39 Td
+(Persist agent execution state in SQLite checkpointers.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 186.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 190.89 Td
+(Deliverable: An automated customer issue triage graph with human approval on refund actions.) Tj
+ET
+0.82 0.86 0.90 RG
+0.8 w
+42 32 m 553.28 32 l S
+0.45 0.50 0.58 rg
+BT
+/F1 8.5 Tf
+42 20 Td
+(100% Open-Source & Hybrid Stack | Ollama + Gemini Pro + LangGraph + CrewAI) Tj
+ET
+BT
+/F2 8.5 Tf
+493.28 20 Td
+(Page 3 of 5) Tj
+ET
+
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 13 0 R /F2 14 0 R /F3 15 0 R /F4 16 0 R /F5 17 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 7597 >>
+stream
+0.820 0.860 0.900 RG
+0.80 w
+42.00 809.89 m 553.28 809.89 l S
+0.450 0.500 0.580 rg
+BT
+/F2 8.50 Tf
+42.00 815.89 Td
+(AI AGENTS: ZERO TO HERO ROADMAP) Tj
+ET
+BT
+/F2 8.50 Tf
+443.28 815.89 Td
+(PEER PARTNERSHIP GUIDE) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 678.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 678.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 764.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 771.89 Td
+(WEEK 6: Structured Outputs, Guardrails & Self-Correction) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 752.89 Td
+(Core Objective: Ensure 100% deterministic data output and autonomous auditing.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 735.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 733.89 Td
+(Enforce strict Pydantic return schemas using LLM structured output modes.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 723.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 721.39 Td
+(Implement Reflection Loops: Generator Agent creates draft; Critic Agent evaluates it.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 710.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 708.89 Td
+(Add schema retry loops when models return invalid JSON.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 698.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 696.39 Td
+(Benchmark local Ollama vs Gemini Pro accuracy on structured extraction.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 678.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 682.89 Td
+(Deliverable: An automated invoice / contract parsing agent that self-audits numbers before finalizing.) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 560.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 560.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 646.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 653.89 Td
+(WEEK 7: Multi-Agent Collaboration with CrewAI) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 634.89 Td
+(Core Objective: Coordinate teams of specialized AI agents working together.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 617.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 615.89 Td
+(Define specialized agent personas: Market Researcher, Financial Analyst, Executive Writer.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 605.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 603.39 Td
+(Configure sequential and hierarchical process flows with a Manager Agent.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 592.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 590.89 Td
+(Implement inter-agent delegation and question asking.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 580.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 578.39 Td
+(Integrate custom Python tools into CrewAI tasks.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 560.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 564.89 Td
+(Deliverable: A 3-agent market intelligence crew that produces comprehensive competitor reports.) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 442.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 442.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 528.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 535.89 Td
+(WEEK 8: CAPSTONE 2: Autonomous GitHub / Repo Assistant) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 516.89 Td
+(Core Objective: Automate core software engineering and codebase tasks.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 499.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 497.89 Td
+(Connect agent to git: read diffs, check issues, and run local test suites.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 487.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 485.39 Td
+(Agent investigates a bug report, locates offending files, and writes a reproducible test.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 474.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 472.89 Td
+(Agent drafts code fix, runs tests in a sandbox loop until all pass, and stages a git commit.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 462.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 460.39 Td
+(Human-in-the-loop approval before pushing to remote branch.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 442.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 446.89 Td
+(Deliverable: Deliverable: Complete GitHub Actions / CLI workflow + recorded walkthrough.) Tj
+ET
+0.100 0.200 0.400 rg
+BT
+/F2 11.00 Tf
+42.00 420.89 Td
+(MONTH 3: META-AGENTS, TOOL PROTOCOLS & PORTFOLIO LAUNCH) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 304.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 304.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 390.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 397.89 Td
+(WEEK 9: Model Context Protocol \(MCP\) Standards) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 378.89 Td
+(Core Objective: Adopt the universal industry standard for agent tool integration.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 361.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 359.89 Td
+(Understand Anthropic's Model Context Protocol \(MCP client/server architecture\).) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 349.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 347.39 Td
+(Connect pre-built MCP servers \(Filesystem, Postgres/SQLite, GitHub, Web Search\).) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 336.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 334.89 Td
+(Convert custom Python functions into full MCP-compliant tool servers.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 324.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 322.39 Td
+(Allow your agents to switch between local MCP servers dynamically.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 304.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 308.89 Td
+(Deliverable: An agent capable of interacting with any database and file tree via standardized MCP.) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 174.39 511.28 120.50 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 174.39 511.28 120.50 re s
+0.180 0.280 0.480 rg
+42.00 272.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 279.89 Td
+(WEEK 10 & 11: CAPSTONE 3: The Meta-Agent \(Agent That Creates Agents\)) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 260.89 Td
+(Core Objective: Build your flagship autonomous system: a self-synthesizing agent factory.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 243.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 241.89 Td
+(Architect Agent: Takes user goal in natural language and breaks down required tools.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 231.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 229.39 Td
+(Tool Synthesizer: Dynamically generates valid Python tool functions and Pydantic schemas.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 218.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 216.89 Td
+(Sandbox Verification: Executes generated tools in an isolated sandbox to test behavior.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 206.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 204.39 Td
+(Agent Assembler: Writes ready-to-run LangGraph / CrewAI code and spawns the sub-agent.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 193.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 191.89 Td
+(Execution Monitor: Watches the newly spawned agent execute the user task.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 174.39 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 178.39 Td
+(Deliverable: Deliverable: Working Meta-Agent framework capable of generating and launching new custom agents.) Tj
+ET
+0.82 0.86 0.90 RG
+0.8 w
+42 32 m 553.28 32 l S
+0.45 0.50 0.58 rg
+BT
+/F1 8.5 Tf
+42 20 Td
+(100% Open-Source & Hybrid Stack | Ollama + Gemini Pro + LangGraph + CrewAI) Tj
+ET
+BT
+/F2 8.5 Tf
+493.28 20 Td
+(Page 4 of 5) Tj
+ET
+
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 13 0 R /F2 14 0 R /F3 15 0 R /F4 16 0 R /F5 17 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 8125 >>
+stream
+0.820 0.860 0.900 RG
+0.80 w
+42.00 809.89 m 553.28 809.89 l S
+0.450 0.500 0.580 rg
+BT
+/F2 8.50 Tf
+42.00 815.89 Td
+(AI AGENTS: ZERO TO HERO ROADMAP) Tj
+ET
+BT
+/F2 8.50 Tf
+443.28 815.89 Td
+(PEER PARTNERSHIP GUIDE) Tj
+ET
+0.980 0.990 1.000 rg
+42.00 678.89 511.28 108.00 re f
+0.850 0.880 0.940 RG
+0.70 w
+42.00 678.89 511.28 108.00 re s
+0.180 0.280 0.480 rg
+42.00 764.89 511.28 22.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 9.00 Tf
+52.00 771.89 Td
+(WEEK 12: Portfolio Packaging, Web UI & Showcase Launch) Tj
+ET
+0.350 0.400 0.500 rg
+BT
+/F3 8.00 Tf
+52.00 752.89 Td
+(Core Objective: Package all projects into a world-class public showcase.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 735.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 733.89 Td
+(Build clean web interfaces: Streamlit \(quick Python UI\) or Next.js + FastAPI.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 723.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 721.39 Td
+(Write high-quality technical architecture articles on LinkedIn / GitHub.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 710.89 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 708.89 Td
+(Record 3-minute video walkthroughs demonstrating real execution.) Tj
+ET
+0.200 0.500 0.900 rg
+54.00 698.39 3.50 3.50 re f
+0.180 0.220 0.280 rg
+BT
+/F1 8.00 Tf
+64.00 696.39 Td
+(Prepare GitHub repositories with clean documentation, architecture diagrams, and tests.) Tj
+ET
+0.900 0.950 0.920 rg
+52.00 678.89 491.28 14.00 re f
+0.100 0.500 0.250 rg
+BT
+/F2 7.50 Tf
+58.00 682.89 Td
+(Deliverable: Deliverable: Complete, public AI Agent Engineering portfolio ready for employers and clients.) Tj
+ET
+0.140 0.380 0.920 rg
+42.00 648.89 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 653.89 Td
+(6) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 653.89 Td
+(THE META-AGENT BLUEPRINT: HOW IT WORKS) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 642.89 m 553.28 642.89 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 621.39 Td
+(Your stated dream is to build an agent that can create other agents. Here is the engineering blueprint) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 607.89 Td
+(we will build together in Month 3:) Tj
+ET
+0.930 0.950 1.000 rg
+42.00 499.89 511.28 99.00 re f
+0.150 0.350 0.900 rg
+42.00 499.89 4.00 99.00 re f
+0.850 0.880 0.920 RG
+0.60 w
+42.00 499.89 511.28 99.00 re s
+0.080 0.200 0.600 rg
+BT
+/F2 9.00 Tf
+56.00 582.89 Td
+(META-AGENT 4-STEP PIPELINE ARCHITECTURE) Tj
+ET
+0.180 0.220 0.280 rg
+BT
+/F1 8.50 Tf
+56.00 560.89 Td
+(Step 1 [Architect Agent]: Analyzes user goal -> Determines roles, tools, and memory required.) Tj
+ET
+BT
+/F1 8.50 Tf
+56.00 547.89 Td
+(Step 2 [Tool Synthesizer]: Writes Python functions & Pydantic models for any missing tools.) Tj
+ET
+BT
+/F1 8.50 Tf
+56.00 534.89 Td
+(Step 3 [Sandbox Validator]: Runs unit tests against the generated tools in an isolated subprocess.) Tj
+ET
+BT
+/F1 8.50 Tf
+56.00 521.89 Td
+(Step 4 [Agent Assembler & Runner]: Generates agent graph code, instantiates it, and begins execution.) Tj
+ET
+BT
+/F1 8.50 Tf
+56.00 508.89 Td
+(Self-Correction: If the spawned agent fails, logs are fed back to the Architect to patch the tools.) Tj
+ET
+0.140 0.380 0.920 rg
+42.00 469.89 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 474.89 Td
+(7) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 474.89 Td
+(THE 7-DAY STUDY & BUILD RHYTHM \(10-20 HRS/WEEK\)) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 463.89 m 553.28 463.89 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 442.39 Td
+(Consistency is key. Follow this 7-day cadence to balance concept absorption, hands-on coding, and) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 428.89 Td
+(project delivery:) Tj
+ET
+0.120 0.180 0.320 rg
+42.00 399.89 511.00 20.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 8.50 Tf
+50.00 405.89 Td
+(Day) Tj
+ET
+BT
+/F2 8.50 Tf
+140.00 405.89 Td
+(Focus Area) Tj
+ET
+BT
+/F2 8.50 Tf
+280.00 405.89 Td
+(Daily Action Plan \(1.5 - 2.5 hours\)) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 381.89 m 553.00 381.89 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 386.89 Td
+(Monday) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 386.89 Td
+(Theory & Videos) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+280.00 386.89 Td
+(Watch 1 video lesson \(DeepLearning.AI / YouTube\). Take architecture notes.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 363.89 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 363.89 m 553.00 363.89 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 368.89 Td
+(Tuesday) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 368.89 Td
+(Code from Scratch) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+280.00 368.89 Td
+(Recreate the lesson in your own editor line-by-line. No copy-pasting.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 345.89 m 553.00 345.89 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 350.89 Td
+(Wednesday) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 350.89 Td
+(Break & Debug) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+280.00 350.89 Td
+(Inject errors intentionally. Break tool calls and write recovery exception handlers.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 327.89 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 327.89 m 553.00 327.89 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 332.89 Td
+(Thursday) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 332.89 Td
+(Daily Automation) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+280.00 332.89 Td
+(Apply the concept to a real personal daily task \(files, emails, research\).) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 309.89 m 553.00 309.89 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 314.89 Td
+(Friday) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 314.89 Td
+(Local vs Cloud Benchmark) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+280.00 314.89 Td
+(Run on Ollama local models vs Gemini Pro API; compare speed & accuracy.) Tj
+ET
+0.960 0.970 0.990 rg
+42.00 291.89 511.00 18.00 re f
+0.880 0.900 0.940 RG
+0.50 w
+42.00 291.89 m 553.00 291.89 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 296.89 Td
+(Saturday) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 296.89 Td
+(Capstone Build \(3-4h\)) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+280.00 296.89 Td
+(Dedicated deep work on that week's capstone module.) Tj
+ET
+0.880 0.900 0.940 RG
+0.50 w
+42.00 273.89 m 553.00 273.89 l S
+0.100 0.140 0.200 rg
+BT
+/F2 8.00 Tf
+50.00 278.89 Td
+(Sunday) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+140.00 278.89 Td
+(Review & GitHub) Tj
+ET
+0.220 0.260 0.340 rg
+BT
+/F1 8.00 Tf
+280.00 278.89 Td
+(Commit code, document learnings in README, and plan the upcoming week.) Tj
+ET
+0.820 0.850 0.900 RG
+0.80 w
+42.00 273.89 511.00 146.00 re s
+0.140 0.380 0.920 rg
+42.00 238.89 24.00 18.00 re f
+1.000 1.000 1.000 rg
+BT
+/F2 10.00 Tf
+47.00 243.89 Td
+(8) Tj
+ET
+0.090 0.130 0.240 rg
+BT
+/F2 13.00 Tf
+74.00 243.89 Td
+(DAY 1 KICKOFF CHECKLIST: STARTING TODAY) Tj
+ET
+0.850 0.880 0.920 RG
+1.00 w
+42.00 232.89 m 553.28 232.89 l S
+0.200 0.240 0.300 rg
+BT
+/F1 9.50 Tf
+42.00 211.39 Td
+(You are now ready to begin. Here are the exact steps we are taking in our pair-programming session) Tj
+ET
+BT
+/F1 9.50 Tf
+42.00 197.89 Td
+(right now:) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 181.89 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 179.89 Td
+(Step 1:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+97.76 179.89 Td
+(Install uv package manager: curl -LsSf https://astral.sh/uv/install.sh | sh) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 165.89 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 163.89 Td
+(Step 2:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+97.76 163.89 Td
+(Install Ollama: brew install ollama && ollama pull llama3.2:3b) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 149.89 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 147.89 Td
+(Step 3:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+97.76 147.89 Td
+(Initialize project lab: uv init agent-lab && cd agent-lab && uv add litellm pydantic) Tj
+ET
+0.200 0.450 0.900 rg
+44.00 133.89 4.00 4.00 re f
+0.100 0.140 0.220 rg
+BT
+/F2 9.00 Tf
+56.00 131.89 Td
+(Step 4:) Tj
+ET
+0.250 0.300 0.380 rg
+BT
+/F1 9.00 Tf
+97.76 131.89 Td
+(Write your first raw tool-calling script with me as your peer partner!) Tj
+ET
+0.82 0.86 0.90 RG
+0.8 w
+42 32 m 553.28 32 l S
+0.45 0.50 0.58 rg
+BT
+/F1 8.5 Tf
+42 20 Td
+(100% Open-Source & Hybrid Stack | Ollama + Gemini Pro + LangGraph + CrewAI) Tj
+ET
+BT
+/F2 8.5 Tf
+493.28 20 Td
+(Page 5 of 5) Tj
+ET
+
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+14 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+15 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+16 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+17 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000140 00000 n 
+0000000317 00000 n 
+0000008596 00000 n 
+0000008773 00000 n 
+0000016539 00000 n 
+0000016716 00000 n 
+0000024037 00000 n 
+0000024215 00000 n 
+0000031865 00000 n 
+0000032044 00000 n 
+0000040222 00000 n 
+0000040293 00000 n 
+0000040369 00000 n 
+0000040448 00000 n 
+0000040517 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+40591
+%%EOF
